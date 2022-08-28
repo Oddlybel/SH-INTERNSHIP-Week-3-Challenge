@@ -1,0 +1,337 @@
+body{
+    background: #E5E5E5;
+}
+
+section .menu{
+position: absolute;
+width: 400;
+height: 60px;
+left: 240px;
+top: 20px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 63px;
+color: #000000;
+position: absolute;
+width: 500px;
+height: 5px;
+left: 240px;
+top: 20px;
+background: rgb(141, 113, 86);
+}
+
+.menubox{
+box-sizing: border-box;
+position: absolute;
+width: 150px;
+height: 820px;
+left: 57px;
+top: 20px;
+background: #0C0B0B;
+border-radius: 24px;
+}
+
+section .menu1{
+position: absolute;
+width: 51px;
+height: 102px;
+left: 40px;
+top: 10px;
+font-family: 'Baloo Bhai';
+font-style: normal;
+font-weight: 1200;
+font-size: 90px;
+line-height: 102px;
+color: #F1D5BB;
+}
+        
+section .menu2{
+box-sizing: border-box;
+position: absolute;
+left: 50px ;
+right: 90.35%;
+top: 150px;
+bottom: 75.3%;
+background: #FFFFFF;
+}
+        
+section .menu3{
+position: absolute;
+top: 300px;
+left: 50px;
+right: 90px;
+bottom: 50%;
+}
+        
+section .menu4{  
+position: absolute;
+width: 150px;
+height: 122px;
+left: 0px;
+top: 430px;
+background: #F1D5BB; 
+}
+
+section .menu4 .icon{
+position: absolute;
+top: 35px;
+left: 50px;
+right: 90px;
+bottom: 50%;
+}
+                  
+section .menu5{
+position: absolute;
+left: 50px;
+right: 90px;
+top: 600px;
+bottom: 33.2%;
+background: #DADADA;
+}
+        
+section .menu6{
+box-sizing: border-box;
+position: absolute;
+left: 50px;
+right: 90px;
+top: 750px;
+bottom: 17%;
+background: #FFFFFF;
+}
+    
+section .counter{  
+position: absolute;
+width: 608px;
+height: 608px;
+left: 244px;
+top: 135px;
+background: #F1D5BB;
+border-radius: 3px;
+}
+
+section .img1{
+position: absolute;
+left: 20px;
+top: 20px;
+border-radius:50%;
+height: 100px;
+width: 100px;
+}
+
+section .counter1{
+position: absolute;
+width: 400px;
+height: 30px;
+left: 150px;
+top: 10px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 25px;
+line-height: 31px;
+color: #000000;
+}
+
+section .img2{
+position: absolute;
+left: 20px;
+top: 170px;
+border-radius:50%;
+height: 100px;
+width: 100px;
+}
+
+section .counter2{
+    position: absolute;
+    width: 400px;
+    height: 3px;
+    left: 150px;
+    top: 170px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+    }
+    
+
+section .img3{
+position: absolute;
+left: 20px;
+top: 320px;
+border-radius:50%;
+height: 100px;
+width: 100px;
+}
+
+section .counter3{
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    left: 150px;
+    top: 320px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+    }
+    
+
+section .img4{
+position: absolute;
+left: 20px;
+top: 490px;
+border-radius:50%;
+height: 100px;
+width: 100px;
+}
+
+section .counter4{
+    position: absolute;
+    width: 400px;
+    height: 30px;
+    left: 150px;
+    top: 490px;
+    font-family: 'Mulish';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 31px;
+    color: #000000;
+    }
+
+section .sub{
+position: absolute;
+width: 445px;
+height: 285px;
+left: 1000px;
+top: 135px;
+background: #F1D5BB;
+border-radius: 3px;
+}
+
+#subtotal{
+position: absolute;
+width: 250px;
+height: 20px;
+left: 100px;
+top: 10px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+color: #000000;
+}
+    
+#order{
+position: absolute;
+width: 365px;
+height: 80px;
+left: 1040px;
+top: 315px;
+background: #000000;
+color: white;
+font-size: 25px;
+font-family: 'lavenda'
+}
+
+#total{
+position: absolute;
+width: 115px;
+height: 40px;
+left: 1050px;
+top: 245px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 38px;
+color: rgba(0, 0, 0, 0.8);
+}
+
+section .promo{
+box-sizing: border-box;
+position: absolute;
+width: 445px;
+height: 323px;
+left: 1000px;
+top: 420px;
+background: #FFFFFF;
+border: 1px solid #F1D5BB;
+border-radius: 3px;
+}
+
+#promocode{
+position: absolute;
+width: 227px;
+height: 50px;
+left: 100px;
+top: 0.1px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 50px;
+color: #000000
+}
+
+#code{ 
+box-sizing: border-box;
+position: absolute;
+width: 200px;
+height: 50px;
+left: 1045px;
+top: 520px;
+background: #FFFFFF;
+border: 1px solid #F1D5BB;
+text-align: center;
+}
+
+#submit{
+position: absolute;
+width: 150px;
+height: 40px;
+left: 1048px;
+top: 600px;
+background: #000000;
+color: white;
+font-size: 15px;
+font-family: 'Mulish';
+}
+#cancel1{
+position: absolute;
+left: 500px;
+right: 42.43%;
+top: 50px;
+bottom: 77.3%;
+background: rgba(0, 0, 0, 0.6);
+}
+#cancel2{
+position: absolute;
+left: 500px;
+right: 42.43%;
+top: 200px;
+bottom: 77.3%;
+background: rgba(0, 0, 0, 0.6);
+}
+ #cancel3{
+position: absolute;
+left: 500px;
+right: 42.43%;
+top: 350px;
+bottom: 77.3%;
+background: rgba(0, 0, 0, 0.6);
+        }
+#cancel4{
+position: absolute;
+left: 500px;
+right: 42.43%;
+top: 500px;
+bottom: 77.3%;
+background: rgba(0, 0, 0, 0.6);
+}            

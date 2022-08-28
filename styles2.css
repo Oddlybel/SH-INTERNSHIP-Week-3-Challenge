@@ -1,0 +1,216 @@
+body{
+    background: #E5E5E5;
+}
+
+section .menu{
+position: absolute;
+width: 400;
+height: 60px;
+left: 240px;
+top: 20px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 50px;
+line-height: 63px;
+color: #000000;
+position: absolute;
+width: 500px;
+height: 5px;
+left: 240px;
+top: 20px;
+background: rgb(141, 113, 86);
+}
+
+.menubox{
+box-sizing: border-box;
+position: absolute;
+width: 150px;
+height: 820px;
+left: 57px;
+top: 20px;
+background: #0C0B0B;
+border-radius: 24px;
+}
+
+section .menu1{
+position: absolute;
+width: 51px;
+height: 102px;
+left: 40px;
+top: 10px;
+font-family: 'Baloo Bhai';
+font-style: normal;
+font-weight: 1200;
+font-size: 90px;
+line-height: 102px;
+color: #F1D5BB;
+}
+
+section .menu2{
+box-sizing: border-box;
+position: absolute;
+left: 50px ;
+right: 90.35%;
+top: 150px;
+bottom: 75.3%;
+background: #FFFFFF;
+}
+
+section .menu3{
+    position: absolute;
+    width: 150px;
+    height: 122px;
+    left: 0px;
+    top: 250px;
+    background: #F1D5BB;
+}
+
+section .menu3 .icon{
+position: absolute;
+top: 35px;
+left: 50px;
+right: 90px;
+bottom: 50%;
+
+}
+    
+section .menu4{
+position: absolute;
+left: 50px;
+right: 90.72%;
+top: 450px;
+bottom: 48.6%;
+background: #DADADA;
+}
+
+section .menu5{
+position: absolute;
+left: 50px;
+right: 90px;
+top: 600px;
+bottom: 33.2%;
+background: #DADADA;
+}
+
+section .menu6{
+box-sizing: border-box;
+position: absolute;
+left: 50px;
+right: 90px;
+top: 750px;
+bottom: 17%;
+background: #FFFFFF;
+}
+
+section .food1{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 243px;
+top: 154px;
+border-radius: 10px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food2{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 533px;
+top: 154px;
+border-radius: 10px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food3{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 823px;
+top: 154px;
+border-radius: 10px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food4{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 1113px;
+top: 154px;
+border-radius: 10px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food5{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 244px;
+top: 498px;
+border-radius: 2px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food6{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 534px;
+top: 498px;
+border-radius: 2px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food7{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 824px;
+top: 498px;
+border-radius: 2px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .food8{
+position: absolute;
+width: 224px;
+height: 275px;
+left: 1114px;
+top: 498px;
+border-radius: 2px;
+font-family: 'lavenda';
+font-size: 18px;
+}
+
+section .input{
+font-size: 50px; 
+position: absolute;
+width: 150px;
+height: 80px;
+left: 740px;
+top: 820px;
+border-radius: 10px;
+}
+
+section .footer{
+position: absolute;
+width: 800px;
+height: 20px;
+left: 244px;
+top: 900px;
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 19px;
+color: #000000;
+}
